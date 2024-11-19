@@ -1,4 +1,4 @@
-# 第四章，GATT（Services and Characteristics）
+# 第四章，GATT（服务与特性，Services and Characteristics）
 
 通用属性配置文件（The Generic Attribuite Profile, GATT）建立在如何通过一个蓝牙连接交换所有的配置文件以及用户数据。与定义了设备间底层交互的[GAP](./chapter3.md)对比，GATT仅处理实际数据传输流程和格式。
 
