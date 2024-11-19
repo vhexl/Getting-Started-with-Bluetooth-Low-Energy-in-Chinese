@@ -1,0 +1,7 @@
+[book]
+authors = ["Kevin Townsend, Carles Cufí, Akiba, and Robert Davidson"]
+description = "Chinese version translator(Eron Wu)"
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "Getting-Started-with-Bluetooth-Low-Energy-in-Chinese"
